@@ -10,4 +10,4 @@ Source_Code Folder:
   - Contains a .py file for the data processing which results in a .csv file
   - Contains a different .py file for the data processing which results in a .sql file
 
-- G18MapsGraphs which is the Tableau Workbook that we used for our Data Analysis
+G18MapsGraphs which is the Tableau Workbook that we used for our Data Analysis
